@@ -1,4 +1,4 @@
 # Fille-rouge
-this read me files containe the details of the project fille rouge 'Social Network System for Job Placement'.
+this readme file contain the details of the project fil rouge 'Social Network System for Job Placement'.
 
 	## Cahier De charge.
